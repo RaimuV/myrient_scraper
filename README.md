@@ -1,4 +1,4 @@
-# Web Scraper - Scraping Game Links from MyRient
+# Myrient Scraper - Scraping Game Links from MyRient
 
 This Python script is designed to scrape all the game links from the **Myrient website**, extract their `href` (URL) and `title` attributes, and save them into a JSON file. The scraper specifically looks for `<td>` tags with the class `link`, processes the links within them, and returns a list of games with their corresponding URLs.
 
